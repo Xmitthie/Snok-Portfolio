@@ -1,0 +1,29 @@
+
+body {
+    font-family: sans-serif;
+    background-color: antiquewhite;
+    place-items: center;
+    display: grid;
+    min-height: 105vh;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+    background-image: url(https://cdn.discordapp.com/attachments/884303796170264619/1197761347526594640/crobg.gif?ex=65bc712e&is=65a9fc2e&hm=a9a971b30f4fe7812c5a83ddde93b9365678f057457b0068db221b902b2cce93&);
+  }
+
+  h1 {
+    text-align: center;
+    margin: auto;
+    margin-top: 12px;
+    padding: 0;
+    color: #9c9c9c;
+  }
+
+  h1:hover {
+    cursor: pointer;  
+    color: #7289da;
+  }
+
+  .text p {
+    margin-bottom: 10px;
+  }
