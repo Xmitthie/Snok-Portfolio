@@ -16,7 +16,7 @@ function Me(props) {
                 <img src={av} alt="Avatar Profile"/>
             </div>
             <div className='content'>
-                <p className='description'>Hello, my name is Snokmode. I'm a 16 age and from Argetina</p>
+                <p className='description'>Hello, my name is Snokmode. I'm a 18 age and from Argetina</p>
             </div>
             <Link className='back' to="/">🍩</Link>
         </div>
